@@ -1,0 +1,1 @@
+var nota1, nota2, Media, primeiroNome, segundoNome, endereco;
